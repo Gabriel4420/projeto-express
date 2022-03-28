@@ -7,8 +7,9 @@
 ![GitHub forks](https://img.shields.io/github/forks/Gabriel4420/projeto-express?style=for-the-badge)
 
 </div>
+<div style="display:flex;align-items:center;justify-content:center;width:100%;">
 <img src="https://miro.medium.com/max/365/0*JSnLvAWiph-GRILo.png" alt="exemplo imagem">
-
+</div>
 Este é um projeto de estudo relacionado ao curso de nodeJS do Zero a maestria, que visa a entrega de um projeto de conclusão de modulo express, muito relacionado a criação de api's.
 
 ## 💻 Pré-requisitos
