@@ -1,0 +1,89 @@
+h2 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+
+}
+
+.inputGroup {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+form input {
+
+    padding: 5px;
+
+    margin-bottom: 10px;
+    width: 80%;
+    max-width: 400px;
+    border-radius: 30px;
+    outline: 0;
+    border: 1px solid black;
+}
+
+form button {
+    background-color: blue;
+    outline: 0;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 40%;
+    max-width: 400px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+
+form button:hover {
+    text-decoration: underline;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.buttonBack {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+ul li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(27, 26, 26);
+    background-color: #ccc;
+}
+
+ul li:nth-child(even) {
+    background-color: rgb(8, 87, 177);
+    color: white;
+}
